@@ -13,7 +13,7 @@ group :test do
   gem "chefstyle", "0.12.0"
   gem "concurrent-ruby", "~> 1.0"
   gem "rspec"
-  gem "simplecov", "~> 0.12"
+  gem "simplecov", "~> 0.22"
   gem "countloc", "~> 0.4"
 end
 

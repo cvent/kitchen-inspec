@@ -18,7 +18,7 @@ group :test do
 end
 
 group :integration do
-  gem "berkshelf", ">= 4.3.5"
+  gem "berkshelf", ">= 8.1.6"
   gem "kitchen-dokken"
 end
 

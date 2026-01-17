@@ -23,5 +23,5 @@ group :integration do
 end
 
 group :tools do
-  gem "pry", "~> 0.10"
+  gem "pry", "~> 0.16"
 end
